@@ -28,6 +28,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager (coordination, delivery)
+  - Product Manager (vision, prioritization)
+  - Developers (implementation)
+  - UX Designer (user research, design, usability)
+  - QA/Testing (manual validation)
+  - QA Automation Engineer (automated testing)
+  - Data Analyst (metrics, insights)
+  - Scrum Master (facilitation, impediments)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
