@@ -84,7 +84,7 @@ UX Designers design user experiences and interfaces, ensuring usability and intu
 - Conduct user research to understand customer needs and pain points
 - Create wireframes, prototypes, and user flows
 - Perform usability testing and gather user feedback
-- Collaborate on design reviews with Product Managers and Product Managers
+- Collaborate on design reviews with Product Managers and Project Managers
 - Ensure accessibility and inclusive design standards
 - Document design patterns and maintain design systems
 
