@@ -14,10 +14,10 @@ Maintain a simple table with:
 - Status
 
 ## Risk Lifecycle
-- Identify: during planning and ongoing execution
-- Assess: estimate impact and likelihood
-- Mitigate: reduced via actions, contingency plans
-- Monitor: review at weekly syncs and update status
+- Identify: during planning and ongoing execution (all team members can identify risks)
+- Assess: estimate impact and likelihood (PM, Data Analyst for data-driven risks)
+- Mitigate: reduced via actions, contingency plans (assigned owners, Scrum Master tracks)
+- Monitor: review at weekly syncs and update status (PM leads, Data Analyst provides metrics)
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
@@ -29,13 +29,21 @@ Weekly Status Template:
 - Progress this week:
 - Next steps:
 - Risks & blockers:
+- Key metrics (from Data Analyst):
 - Ask / decisions needed:
+
+Sprint Review Template:
+- Features completed:
+- Demo highlights:
+- User feedback (from UX Designer if applicable):
+- Quality metrics (from QA Automation Engineer):
+- Retrospective scheduled:
 
 Incident Communication
 - Triage summary
 - Actions being taken
 - Expected timeline
-- Post-incident blameless retrospective scheduled
+- Post-incident blameless retrospective scheduled (facilitated by Scrum Master)
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor

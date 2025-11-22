@@ -18,6 +18,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: designs user experiences, conducts research, ensures usability.
+- Data Analyst: provides data-driven insights, tracks metrics, supports decision-making.
+- QA Automation Engineer: builds and maintains automated test frameworks, ensures quality gates.
+- Scrum Master: facilitates agile ceremonies, removes impediments, coaches team practices.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
